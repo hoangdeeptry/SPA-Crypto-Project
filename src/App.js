@@ -31,7 +31,7 @@ function App() {
         <div className="App font-nunito">
             <div className="search p-10">
                 <div className="flex items-center w-fit mx-auto mb-8">
-                    <h1 className="text-xl">Data fetched from</h1>
+                    <h1 className="text-xl">Data fetched from1</h1>
                     <img
                         src="https://landing.coingecko.com/wp-content/uploads/2020/03/CoinGecko.png"
                         alt=""
